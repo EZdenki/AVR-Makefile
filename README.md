@@ -1,5 +1,5 @@
 # AVR-Makefile
-A Makefile template for AVR-based C projects that include libraries
+A Makefile template and small sample application for AVR-based C projects that include libraries.
 To use, rename the file to Makefile. Edit the items prefixed with a * to suit your needs. Specifically, the following need to be updated:<br>
 <table>
             <tr><td>TARGET</td><td>Name of your main project</td></tr>
