@@ -15,9 +15,6 @@ libraries without using a leading "/".</td></tr>
 </table>
 <br>
 Make Directives:<br>
-- make<br>
-  - Compile any new code and upload to AVR.<br>
-- make clean<br>
-  - Remove .o, .hex, .elf files.<br>
-- make fuse<br>
-  - Run avrdude to set the AVR fuses.<br>
+make : Compile any new code and upload to AVR.<br>
+make clean : Remove .o, .hex, .elf files.<br>
+make fuse : Run avrdude to set the AVR fuses.<br>
